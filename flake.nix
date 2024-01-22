@@ -21,23 +21,19 @@
           src = ./.;
           nativeBuildInputs = [ pkgs.zola ];
           buildPhase = ''
-            cd blog
-            zola build --force -o ../docs
-            cd ..
+            zola build --force
           '';
           installPhase = ''
-            cp -r docs/ $out
-            rm -rf docs/themes/*
-            mkdir -p "docs/themes/${themeName}"
-            cp -r --force ${after-dark}/* docs/themes/${themeName}
+            mkdir -p "themes/${themeName}"
+            cp -r --force ${after-dark}/* themes/${themeName}
           '';
         };
         defaultPackage = self.packages.${system}.website;
         devShell = pkgs.mkShell {
           packages = [ pkgs.zola ];
           shellHook = ''
-            mkdir -p blog/themes
-            ln --force -sn "${after-dark}" "blog/themes/${themeName}"
+            mkdir -p themes
+            ln --force -sn "${after-dark}" "themes/${themeName}"
           '';
         };
       });
