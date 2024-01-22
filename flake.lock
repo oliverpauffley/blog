@@ -1,18 +1,18 @@
 {
   "nodes": {
-    "after-dark": {
+    "anemone": {
       "flake": false,
       "locked": {
-        "lastModified": 1692533888,
-        "narHash": "sha256-YDEJazatad/aZCBhT6j9Tw8g9eCHszUWQaYYKEsGMDA=",
-        "owner": "getzola",
-        "repo": "after-dark",
-        "rev": "37b4516e5bb1e86fcbc9db13b961f2a4a23926f0",
+        "lastModified": 1701995294,
+        "narHash": "sha256-yhZ0ZZA+oc41S3zFHKvhqrdoI7vId9U77ocyNegriK0=",
+        "owner": "Speyll",
+        "repo": "anemone",
+        "rev": "b9fdc307b728ed8a794891960ff7cc39ccc50525",
         "type": "github"
       },
       "original": {
-        "owner": "getzola",
-        "repo": "after-dark",
+        "owner": "Speyll",
+        "repo": "anemone",
         "type": "github"
       }
     },
@@ -52,7 +52,7 @@
     },
     "root": {
       "inputs": {
-        "after-dark": "after-dark",
+        "anemone": "anemone",
         "flake-utils": "flake-utils",
         "nixpkgs": "nixpkgs"
       }

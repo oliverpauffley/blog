@@ -3,17 +3,17 @@
 
   inputs.nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
   inputs.flake-utils.url = "github:numtide/flake-utils";
-  inputs.after-dark = {
-    url = "github:getzola/after-dark";
+  inputs.anemone = {
+    url = "github:Speyll/anemone";
     flake = false;
   };
 
-  outputs = { self, nixpkgs, flake-utils, after-dark }:
+  outputs = { self, nixpkgs, flake-utils, anemone }:
     flake-utils.lib.eachDefaultSystem (system:
       let
         pkgs = nixpkgs.legacyPackages.${system};
         themeName = ((builtins.fromTOML
-          (builtins.readFile "${after-dark}/theme.toml")).name);
+          (builtins.readFile "${anemone}/theme.toml")).name);
       in {
         packages.website = pkgs.stdenv.mkDerivation rec {
           pname = "static-website";
@@ -26,7 +26,7 @@
           installPhase = ''
             rm -rf themes
             mkdir -p "themes/${themeName}"
-            cp -r --force ${after-dark}/* themes/${themeName}
+            cp -r --force ${anemone}/* themes/${themeName}
           '';
         };
         defaultPackage = self.packages.${system}.website;
@@ -34,7 +34,7 @@
           packages = [ pkgs.zola ];
           shellHook = ''
             mkdir -p themes
-            ln --force -sn "${after-dark}" "themes/${themeName}"
+            ln --force -sn "${anemone}" "themes/${themeName}"
           '';
         };
       });

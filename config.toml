@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://oliverpauffley.github.io/org"
+base_url = "https://oliverpauffley.github.io/blog"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -7,7 +7,7 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-theme = "after-dark"
+theme = "anemone"
 
 generate_feed = true
 
@@ -28,11 +28,8 @@ taxonomies = [
 highlight_code = true
 
 [extra]
+list_pages = true
+default_theme = "dark"
+display_author = true
+twitter_card = false
 
-# This is the default menu
-even_menu = [
-    {url = "$BASE_URL", name = "Home"},
-    {url = "$BASE_URL/categories", name = "Categories"},
-    {url = "$BASE_URL/tags", name = "Tags"},
-    {url = "$BASE_URL/about", name = "About"},
-]
