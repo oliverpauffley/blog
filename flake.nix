@@ -24,6 +24,7 @@
             zola build --force
           '';
           installPhase = ''
+            rm -rf themes
             mkdir -p "themes/${themeName}"
             cp -r --force ${after-dark}/* themes/${themeName}
           '';
