@@ -20,14 +20,13 @@
           version = "2023-01-12";
           src = ./.;
           nativeBuildInputs = [ pkgs.zola ];
-          buildPhase = ''
-            zola build --force
-          '';
-          installPhase = ''
+          configurePhase = ''
             rm -rf themes
             mkdir -p "themes/${themeName}"
-            cp -r --force ${anemone}/* themes/${themeName}
+            cp -r ${anemone}/* "themes/${themeName}"
           '';
+          buildPhase = "zola build";
+          installPhase = "cp -r public $out";
         };
         defaultPackage = self.packages.${system}.website;
         devShell = pkgs.mkShell {
