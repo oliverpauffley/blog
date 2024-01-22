@@ -27,7 +27,7 @@
           buildPhase = ''
             mkdir -p themes
             ln -s ${inputs.hugo-coder} themes/hugo-coder
-            sed -i -e 's/enableGitInfo = true/enableGitInfo = false/' config.toml
+            sed -i -e 's/enableGitInfo = true/enableGitInfo = false/' hugo.toml
             ${pkgs.hugo}/bin/hugo
             ${pkgs.nodePackages.prettier}/bin/prettier -w public '!**/*.{js,css}'
           '';
