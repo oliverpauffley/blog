@@ -1,9 +1,8 @@
 +++
-title = "A Blog post for Charlotte A Blog post for Charlotte"
+title = "A Blog post for Charlotte A different post"
 author = ["Oliver Pauffley"]
 date = 2023-01-13
 draft = false
-[taxonomies]
 +++
 
 ## Test blog post {#test-blog-post}

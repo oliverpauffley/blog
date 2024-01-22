@@ -10,9 +10,10 @@ foldTree _ b Leaf                = b
 foldTree f b (Node left a right) =  foldTree f (foldTree f (f a b) left) right
 #+end_src
 ** Does it do images?
+[[file:~/images/IMG_20231011_170658130.jpg][drawing]]
 [[file:~/images/Camera/IMG_20231011_170658130.jpg][image]]
 * Another post?
-#+title: A Blog post for Charlotte
+#+title: A different post
 #+date: 2023-01-13
 #+author: Oliver Pauffley
 Does this work?

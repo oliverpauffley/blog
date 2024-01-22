@@ -1,40 +1,47 @@
 {
-  description = "A flake for developing and building my personal website";
+  description = "Personal website for Oliver Pauffley";
 
-  inputs.nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
-  inputs.flake-utils.url = "github:numtide/flake-utils";
-  inputs.anemone = {
-    url = "github:Speyll/anemone";
-    flake = false;
+  inputs = {
+    nixpkgs.url = "github:NixOS/nixpkgs";
+    utils.url = "github:numtide/flake-utils";
+    hugo-coder = {
+      url = "github:luizdepra/hugo-coder";
+      flake = false;
+    };
   };
 
-  outputs = { self, nixpkgs, flake-utils, anemone }:
-    flake-utils.lib.eachDefaultSystem (system:
-      let
-        pkgs = nixpkgs.legacyPackages.${system};
-        themeName = ((builtins.fromTOML
-          (builtins.readFile "${anemone}/theme.toml")).name);
-      in {
-        packages.website = pkgs.stdenv.mkDerivation rec {
-          pname = "static-website";
-          version = "2023-01-12";
-          src = ./.;
-          nativeBuildInputs = [ pkgs.zola ];
-          configurePhase = ''
-            rm -rf themes
-            mkdir -p "themes/${themeName}"
-            cp -r ${anemone}/* "themes/${themeName}"
+  outputs = inputs@{ self, nixpkgs, utils, ... }:
+    utils.lib.eachSystem [
+      utils.lib.system.x86_64-darwin
+      utils.lib.system.x86_64-linux
+      utils.lib.system.aarch64-darwin
+      utils.lib.system.aarch64-linux
+    ] (system:
+      let pkgs = import nixpkgs { inherit system; };
+      in rec {
+
+        packages.website = pkgs.stdenv.mkDerivation {
+          name = "website";
+          src = self;
+          buildInputs = [ pkgs.git pkgs.nodePackages.prettier ];
+          buildPhase = ''
+            mkdir -p themes
+            ln -s ${inputs.hugo-coder} themes/hugo-coder
+            sed -i -e 's/enableGitInfo = true/enableGitInfo = false/' config.toml
+            ${pkgs.hugo}/bin/hugo
+            ${pkgs.nodePackages.prettier}/bin/prettier -w public '!**/*.{js,css}'
           '';
-          buildPhase = "zola build";
           installPhase = "cp -r public $out";
         };
+
         defaultPackage = self.packages.${system}.website;
-        devShell = pkgs.mkShell {
-          packages = [ pkgs.zola ];
-          shellHook = ''
-            mkdir -p themes
-            ln --force -sn "${anemone}" "themes/${themeName}"
-          '';
+
+        apps = rec {
+          hugo = utils.lib.mkApp { drv = pkgs.hugo; };
+          default = hugo;
         };
+
+        devShell =
+          pkgs.mkShell { buildInputs = [ pkgs.nixpkgs-fmt pkgs.hugo ]; };
       });
 }
