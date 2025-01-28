@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://oliverpauffley.github.io/blog/posts/games_to_run/</loc>
+    <lastmod>2025-01-28T17:10:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oliverpauffley.github.io/blog/</loc>
+    <lastmod>2025-01-28T17:10:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oliverpauffley.github.io/blog/posts/</loc>
+    <lastmod>2025-01-28T17:10:00+00:00</lastmod>
+  </url><url>
     <loc>https://oliverpauffley.github.io/blog/authors/</loc>
   </url><url>
     <loc>https://oliverpauffley.github.io/blog/categories/</loc>
-  </url><url>
-    <loc>https://oliverpauffley.github.io/blog/</loc>
-  </url><url>
-    <loc>https://oliverpauffley.github.io/blog/posts/</loc>
   </url><url>
     <loc>https://oliverpauffley.github.io/blog/series/</loc>
   </url><url>
