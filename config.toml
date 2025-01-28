@@ -1,0 +1,55 @@
+baseurl = "http://www.example.com"
+title = "Oliver Pauffley's Blog"
+theme = "HugoCoder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[pagination]
+pagerSize = 20
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Oliver Pauffley"
+  info = "Nerd"
+  description = "Blog for ramblings about programming, rpgs, and anything else."
+  keywords = "blog,developer,personal"
+  avatarurl = "/images/avatar.jpg"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2025
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/oliverpauffley/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+# TODO write about me
+# [[menu.main]]
+#   name = "About"
+#   weight = 2
+#   url = "about/"
