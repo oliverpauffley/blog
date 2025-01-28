@@ -12,7 +12,7 @@ CLOSED: [2025-01-28 Tue 17:10]
 :END:
 Here's a few game that I want run together with a pitch and some links for further reading.
 *** [[https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-hardcover/][Call Of Cthulhu - Gaslight]]
-[[/images/coc_gaslight.webp]]
+[[file:/images/coc_gaslight.webp]]
 *[Crunch:Low/Medium]*
 Victorian era London. Class divides are strong and discrimination is everywhere. Chuck in the horrors of Cthulhu to break down the hierarchy and everyones sanity.
 
