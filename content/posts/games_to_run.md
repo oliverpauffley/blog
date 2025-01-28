@@ -1,7 +1,8 @@
 +++
 title = "Games I Want To Run"
 author = ["Oliver Pauffley"]
-draft = true
+date = 2025-01-28T17:10:00+00:00
+draft = false
 weight = 2001
 +++
 
@@ -58,6 +59,8 @@ Related Media:
 ![](/images/worlds_without_number.png)
 **[Crunch: High]**
 Old school fantasy swords and sorcery. Delve into dungeons, stab things and collect loot.
+
+Sometimes called Old School Renaissance (OSR), it's tactical and often brutal so you have to think before you do things! Often battles can be over quickly with a decisive plan.
 
 Related Media:
 

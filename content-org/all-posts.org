@@ -5,7 +5,8 @@
 
 
 * posts
-** TODO Games I Want To Run
+** DONE Games I Want To Run
+CLOSED: [2025-01-28 Tue 17:10]
 :PROPERTIES:
 :EXPORT_FILE_NAME: games_to_run
 :END:
