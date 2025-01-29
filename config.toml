@@ -10,6 +10,9 @@ pagerSize = 20
 [markup.highlight]
 style = "github-dark"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   author = "Oliver Pauffley"
   info = "Nerd"

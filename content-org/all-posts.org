@@ -2,7 +2,7 @@
 #+hugo_section: posts
 #+hugo_weight: auto
 #+startup: logdone
-
+#+macro: imgzoom #+attr_html: :link t
 
 * posts
 ** DONE Games I Want To Run
@@ -11,8 +11,11 @@ CLOSED: [2025-01-28 Tue 17:10]
 :EXPORT_FILE_NAME: games_to_run
 :END:
 Here's a few game that I want run together with a pitch and some links for further reading.
+#+TOC: headlines 1
 *** [[https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-hardcover/][Call Of Cthulhu - Gaslight]]
+{{{imgzoom}}}
 [[file:/blog/images/coc_gaslight.webp]]
+
 *[Crunch:Low/Medium]*
 Victorian era London. Class divides are strong and discrimination is everywhere. Chuck in the horrors of Cthulhu to break down the hierarchy and everyones sanity.
 
@@ -23,7 +26,9 @@ Related Media:
 - Frankenstein
 - Crimson Peak
 *** [[https://shop.arcdream.com/products/delta-green-the-role-playing-game-hardback-slipcase-set?ref=delta-green.com][Delta Green]]
+{{{imgzoom}}}
 [[/blog/images/delta_green.png]]
+
 *[Crunch:Low/Medium]*
 
 The world is ending and right before calamity the good guys sweep in and save the day. You are those good guys but what does it cost your sanity to see the things you have seen.
@@ -34,6 +39,7 @@ Related Media:
 - X-Files
 - Stranger Things
 *** [[https://www.tuesdayknightgames.com/pages/mothership-rpg][Mothership]]
+{{{imgzoom}}}
 [[/blog/images/mothership.jpg]]
 *[Crunch: Low]*
 A crew tries (and often fails) to survive the vast expansive of space and all of the human and inhuman horrors it contains.
@@ -45,7 +51,9 @@ Related Media:
 - Underwater
 - Event Horizon
 *** [[https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition][Worlds Without Number]]
+{{{imgzoom}}}
 [[/blog/images/worlds_without_number.png]]
+
 *[Crunch: High]*
 Old school fantasy swords and sorcery. Delve into dungeons, stab things and collect loot.
 
@@ -56,8 +64,10 @@ Related Media:
 - Conan
 - Lord of the Rings
 *** Shadowdark
-*[Crunch: Low]*
+{{{imgzoom}}}
 [[/blog/images/shadowdark.avif]]
+
+*[Crunch: Low]*
 A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark...
 
 Related Media:
