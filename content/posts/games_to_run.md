@@ -77,4 +77,4 @@ A much more streamlined dungeon crawling adventure. Use magic, steel, and wits t
 
 Related Media:
 
--   same as Worlds Without Number
+-   Same as Worlds Without Number
