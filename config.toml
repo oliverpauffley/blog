@@ -18,7 +18,7 @@ style = "github-dark"
   info = "Nerd"
   description = "Blog for ramblings about programming, rpgs, and anything else."
   keywords = "blog,developer,personal"
-  avatarurl = "/images/avatar.jpg"
+  avatarurl = "/blog/images/avatar.jpg"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
