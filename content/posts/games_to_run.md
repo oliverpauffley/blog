@@ -67,3 +67,14 @@ Related Media:
 -   Dungeons and Dragons
 -   Conan
 -   Lord of the Rings
+
+
+## Shadowdark {#shadowdark}
+
+**[Crunch: Low]**
+![](/blog/images/shadowdark.avif)
+A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark...
+
+Related Media:
+
+-   same as Worlds Without Number
