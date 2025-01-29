@@ -12,7 +12,7 @@ CLOSED: [2025-01-28 Tue 17:10]
 :END:
 Here's a few game that I want run together with a pitch and some links for further reading.
 *** [[https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-hardcover/][Call Of Cthulhu - Gaslight]]
-[[file:/images/coc_gaslight.webp]]
+[[file:/blog/images/coc_gaslight.webp]]
 *[Crunch:Low/Medium]*
 Victorian era London. Class divides are strong and discrimination is everywhere. Chuck in the horrors of Cthulhu to break down the hierarchy and everyones sanity.
 
@@ -23,7 +23,7 @@ Related Media:
 - Frankenstein
 - Crimson Peak
 *** [[https://shop.arcdream.com/products/delta-green-the-role-playing-game-hardback-slipcase-set?ref=delta-green.com][Delta Green]]
-[[/images/delta_green.png]]
+[[/blog/images/delta_green.png]]
 *[Crunch:Low/Medium]*
 
 The world is ending and right before calamity the good guys sweep in and save the day. You are those good guys but what does it cost your sanity to see the things you have seen.
@@ -34,7 +34,7 @@ Related Media:
 - X-Files
 - Stranger Things
 *** [[https://www.tuesdayknightgames.com/pages/mothership-rpg][Mothership]]
-[[/images/mothership.jpg]]
+[[/blog/images/mothership.jpg]]
 *[Crunch: Low]*
 A crew tries (and often fails) to survive the vast expansive of space and all of the human and inhuman horrors it contains.
 
@@ -45,7 +45,7 @@ Related Media:
 - Underwater
 - Event Horizon
 *** [[https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition][Worlds Without Number]]
-[[/images/worlds_without_number.png]]
+[[/blog/images/worlds_without_number.png]]
 *[Crunch: High]*
 Old school fantasy swords and sorcery. Delve into dungeons, stab things and collect loot.
 
