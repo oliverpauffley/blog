@@ -10,9 +10,9 @@ weight = 2002
 Here are some of my thoughts on the mothership Megadungeon [Gradient Descent](https://www.tuesdayknightgames.com/products/gradient-descent) as my players have just reached the end of the sixth session.
 
 
-## I get Megadungeon's {#i-get-megadungeon-s}
+## I get Megadungeons {#i-get-megadungeons}
 
-Starting running RPG's with D&amp;D 5th edition put me into a bit of a weird space. I read a lot of the critique online and just didn't understand the problems until I ran a campaign. My players spent hours creating their characters, picking out abilities and writing in some cases some really cool backstories; which immediately meant nothing. I had a story to force them down and I just kept feeling like I wasn't a good enough DM to squish together their complex creations into the pages of the book and craft something greater.
+Starting running RPGs with D&amp;D 5th edition put me into a bit of a weird space. I read a lot of the critique online and just didn't understand the problems until I ran a campaign. My players spent hours creating their characters, picking out abilities and writing in some cases some really cool backstories; which immediately meant nothing. I had a story to force them down and I just kept feeling like I wasn't a good enough DM to squish together their complex creations into the pages of the book and craft something greater.
 
 Jesus could I not have been more wrong. Yeah I suck as a DM, but 5th edition (especially their pre-written adventures) does not help you with this at all. The idea of writing characters into an existing story as you are improvising and trying to juggle what "must happen" is so difficult that I would love to see someone pull it off so I can learn from them.
 

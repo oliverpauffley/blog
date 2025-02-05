@@ -2,6 +2,7 @@
 title = "Games I Want To Run"
 author = ["Oliver Pauffley"]
 date = 2025-01-28T17:10:00+00:00
+categories = ["rpg"]
 draft = false
 weight = 2001
 +++
