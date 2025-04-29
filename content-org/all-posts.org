@@ -38,6 +38,7 @@ Based on Call Of Cthulhu but modern era. Easy to play and lots of cool character
 Related Media:
 - X-Files
 - Stranger Things
+- True Detective
 *** [[https://www.tuesdayknightgames.com/pages/mothership-rpg][Mothership]]
 {{{imgzoom}}}
 [[/blog/images/mothership.jpg]]
@@ -68,10 +69,17 @@ Related Media:
 [[/blog/images/shadowdark.avif]]
 
 *[Crunch: Low]*
-A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark...
+A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark.
 
 Related Media:
 - Same as Worlds Without Number
+*** Mythic Bastionland
+{{{imgzoom}}}
+/blog/images/mythic_bastionland.jpg
+
+Rules light roleplaying in a dreamlike world of knights and myths. Crawl hexes, rule a domain, and remember your oath.
+
+Very Arthurian Knights roaming a kingdom, completing quests and meeting weird seers.
 ** DONE On Gradient Descent :@rpg:@mothership:
 CLOSED: [2025-02-04 Tue 22:12]
 :PROPERTIES:
@@ -103,3 +111,8 @@ The main issues for sure though are me! I really need to be more brutal, especia
   Right now they are onto the home stretch trying to take out monarch. It makes sense that a super powerful AI in command of a space station isn't going to go down easy.
 
 In summary the book is amazing and I'm on the megadungeon hypetrain.
+** TODO Emacs to get stuff done.
+:PROPERTIES:
+:EXPORT_FILE_NAME: gradient_descent
+:END:
+At work we have to add annotations to yaml files to fill in some details for some automatic scanning tools. Most of the time this is a chore and feels like real box ticking. I have the epiphany that the problem isn't the details. If someone sat with me for 10 minutes and asked for them it would be great. But what if instead of a person it was my editor.

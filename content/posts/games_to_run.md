@@ -18,6 +18,7 @@ Here's a few game that I want run together with a pitch and some links for furth
 - [Mothership](#mothership)
 - [Worlds Without Number](#worlds-without-number)
 - [Shadowdark](#shadowdark)
+- [Mythic Bastionland](#mythic-bastionland)
 
 </div>
 <!--endtoc-->
@@ -53,6 +54,7 @@ Related Media:
 
 -   X-Files
 -   Stranger Things
+-   True Detective
 
 
 ## [Mothership](https://www.tuesdayknightgames.com/pages/mothership-rpg) {#mothership}
@@ -95,8 +97,21 @@ Related Media:
 {{< figure src="/blog/images/shadowdark.avif" link="t" >}}
 
 **[Crunch: Low]**
-A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark...
+A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark.
 
 Related Media:
 
 -   Same as Worlds Without Number
+
+
+## Mythic Bastionland {#mythic-bastionland}
+
+<div link>
+
+/blog/images/mythic_bastionland.jpg
+
+</div>
+
+Rules light roleplaying in a dreamlike world of knights and myths. Crawl hexes, rule a domain, and remember your oath.
+
+Very Arthurian Knights roaming a kingdom, completing quests and meeting weird seers.
