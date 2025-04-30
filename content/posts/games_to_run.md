@@ -106,11 +106,7 @@ Related Media:
 
 ## Mythic Bastionland {#mythic-bastionland}
 
-<div link>
-
-/blog/images/mythic_bastionland.jpg
-
-</div>
+{{< figure src="/blog/images/mythic_bastionland.jpg" link="t" >}}
 
 Rules light roleplaying in a dreamlike world of knights and myths. Crawl hexes, rule a domain, and remember your oath.
 
