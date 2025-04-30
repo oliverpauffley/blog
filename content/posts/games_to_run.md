@@ -63,9 +63,10 @@ Related Media:
 
 <img src="/blog/images/mothership.jpg" alt="mothership.jpg" link="t" />
 **[Crunch: Low]**
-A crew tries (and often fails) to survive the vast expansive of space and all of the human and inhuman horrors it contains.
 
 </div>
+
+A crew tries (and often fails) to survive the vast expansive of space and all of the human and inhuman horrors it contains.
 
 Simple system with very little to learn to pickup and play. But your character is very unlikely to change much and will almost certainly be dead.
 
@@ -92,11 +93,12 @@ Related Media:
 -   Lord of the Rings
 
 
-## Shadowdark {#shadowdark}
+## [Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark) {#shadowdark}
 
 {{< figure src="/blog/images/shadowdark.avif" link="t" >}}
 
 **[Crunch: Low]**
+
 A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark.
 
 Related Media:
@@ -104,7 +106,7 @@ Related Media:
 -   Same as Worlds Without Number
 
 
-## Mythic Bastionland {#mythic-bastionland}
+## [Mythic Bastionland](https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd) {#mythic-bastionland}
 
 {{< figure src="/blog/images/mythic_bastionland.jpg" link="t" >}}
 
