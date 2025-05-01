@@ -111,10 +111,6 @@ Related Media:
 
 ## [Slugblaster](https://www.myth.works/en-gb/pages/slugblaster) {#slugblaster}
 
-<div link>
-
-[/blog/images/slugblaster.webp](/blog/images/slugblaster.webp)
-
-</div>
+[{{< figure src="/blog/images/slugblaster.webp" link="t" >}}](/blog/images/slugblaster.webp)
 
 In the small town of Hillview, teenage hoverboarders sneak into other dimensions to explore, film tricks, go viral, and get away from the problems at home. It’s dangerous. It’s stupid. It’s got parent groups in a panic. And it’s the coolest thing ever.This is Slugblaster. A table-top rpg about teenagehood, giant bugs, circuit-bent rayguns, and trying to be cool.
