@@ -74,7 +74,6 @@ Related Media:
 
 {{< figure src="/blog/images/worlds_without_number.png" link="t" >}}
 
-**[Crunch: High]**
 Old school fantasy swords and sorcery. Delve into dungeons, stab things and collect loot.
 
 Sometimes called Old School Renaissance (OSR), it's tactical and often brutal so you have to think before you do things! Often battles can be over quickly with a decisive plan.
@@ -114,7 +113,7 @@ Related Media:
 
 <div link>
 
-[/blog/images/slugblaster.gif](~/blog/images/slugblaster.gif)
+[/blog/images/slugblaster.webp](~/blog/images/slugblaster.webp)
 
 </div>
 
