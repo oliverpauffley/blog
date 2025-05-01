@@ -114,7 +114,7 @@ Related Media:
 
 <div link>
 
-[slugblaster](~/blog/images/slugblaster.gif)
+[/blog/images/slugblaster.gif](/images/slugblaster.gif)
 
 </div>
 
