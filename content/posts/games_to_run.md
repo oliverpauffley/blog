@@ -19,6 +19,7 @@ Here's a few game that I want run together with a pitch and some links for furth
 - [Worlds Without Number](#worlds-without-number)
 - [Shadowdark](#shadowdark)
 - [Mythic Bastionland](#mythic-bastionland)
+- [Slugblaster](#slugblaster)
 
 </div>
 <!--endtoc-->
@@ -28,7 +29,6 @@ Here's a few game that I want run together with a pitch and some links for furth
 
 {{< figure src="/blog/images/coc_gaslight.webp" link="t" >}}
 
-**[Crunch:Low/Medium]**
 Victorian era London. Class divides are strong and discrimination is everywhere. Chuck in the horrors of Cthulhu to break down the hierarchy and everyones sanity.
 
 Very simple to play but with lots of depth to dive into as well. You aren't meant to defeat everything you see because sometimes it's a god of unknownable horrors.
@@ -44,8 +44,6 @@ Related Media:
 
 {{< figure src="/blog/images/delta_green.png" link="t" >}}
 
-**[Crunch:Low/Medium]**
-
 The world is ending and right before calamity the good guys sweep in and save the day. You are those good guys but what does it cost your sanity to see the things you have seen.
 
 Based on Call Of Cthulhu but modern era. Easy to play and lots of cool character building systems. You should hopefully save the world but maybe not make it out alive.
@@ -59,12 +57,7 @@ Related Media:
 
 ## [Mothership](https://www.tuesdayknightgames.com/pages/mothership-rpg) {#mothership}
 
-<div link>
-
-<img src="/blog/images/mothership.jpg" alt="mothership.jpg" link="t" />
-**[Crunch: Low]**
-
-</div>
+{{< figure src="/blog/images/mothership.jpg" link="t" >}}
 
 A crew tries (and often fails) to survive the vast expansive of space and all of the human and inhuman horrors it contains.
 
@@ -97,8 +90,6 @@ Related Media:
 
 {{< figure src="/blog/images/shadowdark.avif" link="t" >}}
 
-**[Crunch: Low]**
-
 A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark.
 
 Related Media:
@@ -113,3 +104,18 @@ Related Media:
 Rules light roleplaying in a dreamlike world of knights and myths. Crawl hexes, rule a domain, and remember your oath.
 
 Very Arthurian Knights roaming a kingdom, completing quests and meeting weird seers.
+
+Related Media:
+
+-   The Green Knight
+
+
+## [Slugblaster](https://www.myth.works/en-gb/pages/slugblaster) {#slugblaster}
+
+<div link>
+
+[slugblaster](~/blog/images/slugblaster.gif)
+
+</div>
+
+In the small town of Hillview, teenage hoverboarders sneak into other dimensions to explore, film tricks, go viral, and get away from the problems at home. It’s dangerous. It’s stupid. It’s got parent groups in a panic. And it’s the coolest thing ever.This is Slugblaster. A table-top rpg about teenagehood, giant bugs, circuit-bent rayguns, and trying to be cool.
