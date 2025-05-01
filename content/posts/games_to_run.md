@@ -113,7 +113,7 @@ Related Media:
 
 <div link>
 
-[/blog/images/slugblaster.webp](~/blog/images/slugblaster.webp)
+[/blog/images/slugblaster.webp](/blog/images/slugblaster.webp)
 
 </div>
 
