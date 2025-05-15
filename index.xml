@@ -6,7 +6,7 @@
     <description>Recent content on Oliver Pauffley&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Feb 2025 22:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 10:35:00 +0100</lastBuildDate>
     <atom:link href="https://oliverpauffley.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Games I Want To Run</title>
@@ -21,6 +21,13 @@
       <pubDate>Tue, 04 Feb 2025 22:12:00 +0000</pubDate>
       <guid>https://oliverpauffley.github.io/blog/posts/gradient_descent/</guid>
       <description>&lt;p&gt;Here are some of my thoughts on the mothership Megadungeon &lt;a href=&#34;https://www.tuesdayknightgames.com/products/gradient-descent&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gradient Descent&lt;/a&gt; as my players have just reached the end of the sixth session.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-get-megadungeons&#34;&gt;&#xA;  I get Megadungeons&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#i-get-megadungeons&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Starting running RPGs with D&amp;amp;D 5th edition put me into a bit of a weird space. I read a lot of the critique online and just didn&amp;rsquo;t understand the problems until I ran a campaign. My players spent hours creating their characters, picking out abilities and writing in some cases some really cool backstories; which immediately meant nothing. I had a story to force them down and I just kept feeling like I wasn&amp;rsquo;t a good enough DM to squish together their complex creations into the pages of the book and craft something greater.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writing A Compiler In A Week</title>
+      <link>https://oliverpauffley.github.io/blog/posts/beazley_course/</link>
+      <pubDate>Thu, 15 May 2025 10:35:00 +0100</pubDate>
+      <guid>https://oliverpauffley.github.io/blog/posts/beazley_course/</guid>
+      <description>&lt;p&gt;Writing a good compiler in a week is a pretty difficult task. Writing it in Haskell when you don&amp;rsquo;t really know what you are doing is even tougher. But, thanks to the amazing course by &lt;a href=&#34;https://www.dabeaz.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Beazley&lt;/a&gt; I managed it! The code is &lt;a href=&#34;https://github.com/oliverpauffley/wabbit_compiler&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It was an amazing thing to take part in mainly just for the grind of just sitting down and coding at something for a week and by the end having a working project. Not that I just came up with everything myself. Dave does a great job of splitting up the work into mini projects so the compiler seems to just appear as you knock down the tasks. I also heavily borrowed the parsing/lexing sections from &lt;a href=&#34;https://github.com/cronokirby/haskell-in-haskell&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cronokirby&lt;/a&gt; which made that section significantly easier.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
