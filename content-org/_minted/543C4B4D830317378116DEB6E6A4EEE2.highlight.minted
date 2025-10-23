@@ -1,0 +1,28 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{k}{FROM}\PYG{+w}{ }\PYG{l+s}{cimg/go:1.19\PYGZhy{}node}\PYG{+w}{ }\PYG{k}{as}\PYG{+w}{ }\PYG{l+s}{build\PYGZhy{}stage}
+
+\PYG{k}{ENV}\PYG{+w}{ }\PYG{n+nv}{PROTOC\PYGZus{}VERSION}\PYG{o}{=}\PYG{l+m}{3}.18.1
+
+\PYG{c}{\PYGZsh{} Install protoc}
+\PYG{k}{RUN}\PYG{+w}{ }curl\PYG{+w}{ }\PYGZhy{}LO\PYG{+w}{ }https://github.com/protocolbuffers/protobuf/releases/download/v\PYG{l+s+si}{\PYGZdl{}\PYGZob{}}\PYG{n+nv}{PROTOC\PYGZus{}VERSION}\PYG{l+s+si}{\PYGZcb{}}/protoc\PYGZhy{}\PYG{l+s+si}{\PYGZdl{}\PYGZob{}}\PYG{n+nv}{PROTOC\PYGZus{}VERSION}\PYG{l+s+si}{\PYGZcb{}}\PYGZhy{}linux\PYGZhy{}x86\PYGZus{}64.zip
+\PYG{k}{RUN}\PYG{+w}{ }unzip\PYG{+w}{ }protoc\PYGZhy{}\PYG{l+s+si}{\PYGZdl{}\PYGZob{}}\PYG{n+nv}{PROTOC\PYGZus{}VERSION}\PYG{l+s+si}{\PYGZcb{}}\PYGZhy{}linux\PYGZhy{}x86\PYGZus{}64.zip\PYG{+w}{ }\PYGZhy{}d\PYG{+w}{ }\PYG{n+nv}{\PYGZdl{}HOME}/.local
+\PYG{k}{RUN}\PYG{+w}{ }rm\PYG{+w}{ }protoc\PYGZhy{}\PYG{l+s+si}{\PYGZdl{}\PYGZob{}}\PYG{n+nv}{PROTOC\PYGZus{}VERSION}\PYG{l+s+si}{\PYGZcb{}}\PYGZhy{}linux\PYGZhy{}x86\PYGZus{}64.zip
+
+\PYG{k}{RUN}\PYG{+w}{ }mkdir\PYG{+w}{ }\PYGZhy{}p\PYG{+w}{ }/home/circleci/project/pkg/generated
+
+\PYG{c}{\PYGZsh{} Install go/js tooling}
+\PYG{k}{ADD}\PYG{+w}{ }Makefile\PYG{+w}{ }.
+\PYG{k}{ADD}\PYG{+w}{ }go.mod\PYG{+w}{ }.
+\PYG{k}{ADD}\PYG{+w}{ }go.sum\PYG{+w}{ }.
+\PYG{k}{ADD}\PYG{+w}{ }package.json\PYG{+w}{ }.
+\PYG{k}{ADD}\PYG{+w}{ }yarn.lock\PYG{+w}{ }.
+\PYG{k}{RUN}\PYG{+w}{ }make\PYG{+w}{ }install
+
+\PYG{k}{ADD}\PYG{+w}{ }.\PYG{+w}{ }.
+\PYG{c}{\PYGZsh{} Generate code from proto files.}
+\PYG{k}{RUN}\PYG{+w}{ }make\PYG{+w}{ }protos\PYGZhy{}generate
+
+\PYG{k}{FROM}\PYG{+w}{ }\PYG{l+s}{scratch}\PYG{+w}{ }\PYG{k}{as}\PYG{+w}{ }\PYG{l+s}{export\PYGZhy{}stage}
+
+\PYG{k}{COPY}\PYG{+w}{ }\PYGZhy{}\PYGZhy{}from\PYG{o}{=}build\PYGZhy{}stage\PYG{+w}{ }/home/circleci/project/pkg/generated\PYG{+w}{ }/pkg/generated
+\end{MintedVerbatim}

@@ -10,12 +10,19 @@
     };
   };
 
-  outputs = { self, nixpkgs, flake-utils, hugo-coder }:
+  outputs = { nixpkgs, flake-utils, hugo-coder, ... }:
     flake-utils.lib.eachDefaultSystem (system:
-      let pkgs = nixpkgs.legacyPackages.${system};
+      let
+        pkgs = nixpkgs.legacyPackages.${system};
+        tex = pkgs.texlive.combine {
+          inherit (pkgs.texlive)
+            scheme-full latex-bin luatex xetex beamer beamerdarkthemes pgfopts
+            fira xkeyval fontaxes fancyvrb booktabs caption # table
+            xecjk ctex unicode-math;
+        };
       in {
         devShells.default = pkgs.mkShell {
-          buildInputs = [ pkgs.git pkgs.nixpkgs-fmt pkgs.hugo ];
+          buildInputs = with pkgs; [ git nixpkgs-fmt hugo tex inkscape ];
         };
         packages = rec {
           hugo-website =

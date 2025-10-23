@@ -1,0 +1,9 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{n+nv}{PROTOC\PYGZus{}VERSION}\PYG{+w}{ }\PYG{o}{:=}\PYG{+w}{ }\PYG{l+m}{3}.14.0
+\PYG{n+nf}{.PHONY}\PYG{o}{:}\PYG{+w}{ }\PYG{n}{install}\PYGZhy{}\PYG{n}{protoc}
+\PYG{n+nf}{install\PYGZhy{}protoc}\PYG{o}{:}
+\PYG{+w}{	}curl\PYG{+w}{ }\PYGZhy{}OL\PYG{+w}{ }https://github.com/protocolbuffers/protobuf/releases/download/v\PYG{k}{\PYGZdl{}(}PROTOC\PYGZus{}VERSION\PYG{k}{)}/\PYG{k}{\PYGZdl{}(}PROTOC\PYGZus{}FILE\PYG{k}{)}
+\PYG{+w}{	}sudo\PYG{+w}{ }unzip\PYG{+w}{ }\PYGZhy{}o\PYG{+w}{ }\PYG{k}{\PYGZdl{}(}PROTOC\PYGZus{}FILE\PYG{k}{)}\PYG{+w}{ }\PYGZhy{}d\PYG{+w}{ }/usr/local\PYG{+w}{ }bin/protoc
+\PYG{+w}{	}sudo\PYG{+w}{ }unzip\PYG{+w}{ }\PYGZhy{}o\PYG{+w}{ }\PYG{k}{\PYGZdl{}(}PROTOC\PYGZus{}FILE\PYG{k}{)}\PYG{+w}{ }\PYGZhy{}d\PYG{+w}{ }/usr/local\PYG{+w}{ }\PYG{l+s+s1}{\PYGZsq{}include/*\PYGZsq{}}
+\PYG{+w}{	}rm\PYG{+w}{ }\PYGZhy{}f\PYG{+w}{ }\PYG{k}{\PYGZdl{}(}PROTOC\PYGZus{}FILE\PYG{k}{)}
+\end{MintedVerbatim}
