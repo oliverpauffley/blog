@@ -243,6 +243,7 @@ I still have lots of do on this compiler and I learnt so much during the course 
 CLOSED: [2025-10-23 Thu 14:37]
 :PROPERTIES:
 :BEAMER_env: quotation
+:EXPORT_FILE_NAME: nix_for_reproducible_environments
 :END:
 #+LaTeX_HEADER: \usemintedstyle{tango} \setminted{fontfamily="Mononoki Nerd Font", breaklines=true, breakanywhere=true, fontsize=\large}
 #+LaTeX_CLASS_OPTIONS: [smaller,aspectratio=169]
