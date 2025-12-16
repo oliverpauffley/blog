@@ -1,48 +1,33 @@
 +++
 title = "Games I Want To Run"
 author = ["Oliver Pauffley"]
-date = 2025-01-28T17:10:00+00:00
 categories = ["rpg"]
 draft = false
 weight = 2001
 +++
 
-Here's a few game that I want run together with a pitch and some links for further reading.
-
 <div class="ox-hugo-toc toc">
 
 <div class="heading">Table of Contents</div>
 
-- [Call Of Cthulhu - Gaslight](#call-of-cthulhu-gaslight)
 - [Delta Green](#delta-green)
 - [Mothership](#mothership)
-- [Worlds Without Number](#worlds-without-number)
 - [Shadowdark](#shadowdark)
 - [Mythic Bastionland](#mythic-bastionland)
 - [Slugblaster](#slugblaster)
+- [Draw Steel](#draw-steel)
+- [Vaults of Vaarn](#vaults-of-vaarn)
 
 </div>
 <!--endtoc-->
 
 
-## [Call Of Cthulhu - Gaslight](https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-hardcover/) {#call-of-cthulhu-gaslight}
-
-{{< figure src="/blog/images/coc_gaslight.webp" link="t" >}}
-
-Victorian era London. Class divides are strong and discrimination is everywhere. Chuck in the horrors of Cthulhu to break down the hierarchy and everyones sanity.
-
-Very simple to play but with lots of depth to dive into as well. You aren't meant to defeat everything you see because sometimes it's a god of unknownable horrors.
-
-Related Media:
-
--   Dracula
--   Frankenstein
--   Crimson Peak
-
-
 ## [Delta Green](https://shop.arcdream.com/products/delta-green-the-role-playing-game-hardback-slipcase-set?ref=delta-green.com) {#delta-green}
 
 {{< figure src="/blog/images/delta_green.png" link="t" >}}
+
+> As you wind down the dark roads from the log cabin you take stock of your team. Agent Reynolds is bleeding from a deep gash across his stomach that smells worse than could be good but you think he will make it.
+> Reinhardt is in the back muttering "She was dead, she was dead, she was dead" over and over and over. Rogers somehow seems to be doing the best despite the thick blood caked across his face. You check in with your FBI handler and let them know it was a false alarm, nothing to see here.
 
 The world is ending and right before calamity the good guys sweep in and save the day. You are those good guys but what does it cost your sanity to see the things you have seen.
 
@@ -59,6 +44,8 @@ Related Media:
 
 {{< figure src="/blog/images/mothership.jpg" link="t" >}}
 
+> The airlock door opens with a faint hiss and a worrying clunk, if you make it back alive and in one piece you should probably get that looked at. You round the corner and the lights flicker on and off in quick rapid bursts. The screams let you know what to expect as the limbs and torsos of what once the rest of your crew round the corner in front of you.
+
 A crew tries (and often fails) to survive the vast expansive of space and all of the human and inhuman horrors it contains.
 
 Simple system with very little to learn to pickup and play. But your character is very unlikely to change much and will almost certainly be dead.
@@ -70,37 +57,29 @@ Related Media:
 -   Event Horizon
 
 
-## [Worlds Without Number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition) {#worlds-without-number}
-
-{{< figure src="/blog/images/worlds_without_number.png" link="t" >}}
-
-Old school fantasy swords and sorcery. Delve into dungeons, stab things and collect loot.
-
-Sometimes called Old School Renaissance (OSR), it's tactical and often brutal so you have to think before you do things! Often battles can be over quickly with a decisive plan.
-
-Related Media:
-
--   Dungeons and Dragons
--   Conan
--   Lord of the Rings
-
-
 ## [Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark) {#shadowdark}
 
 {{< figure src="/blog/images/shadowdark.avif" link="t" >}}
+
+> The torch light in front of you barely illuminates a set of glowing runes on the floor on the chamber. Your fingers trace the grooves as your try and recall your days in the academy. It dawns on you that these are necromancy just as your final torch begins to sputter in your hands.
 
 A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark.
 
 Related Media:
 
--   Same as Worlds Without Number
+-   Lord of the Rings
+-   Conan
+-   The 13th Warrior
 
 
 ## [Mythic Bastionland](https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd) {#mythic-bastionland}
 
-{{< figure src="/blog/images/mythic_bastionland.jpg" link="t" >}}
+<div link>
 
+<img src="/blog/images/mythic_bastionland.jpg" alt="mythic_bastionland.jpg" link="t" />
 Rules light roleplaying in a dreamlike world of knights and myths. Crawl hexes, rule a domain, and remember your oath.
+
+</div>
 
 Very Arthurian Knights roaming a kingdom, completing quests and meeting weird seers.
 
@@ -114,3 +93,22 @@ Related Media:
 [{{< figure src="/blog/images/slugblaster.webp" link="t" >}}](/blog/images/slugblaster.webp)
 
 In the small town of Hillview, teenage hoverboarders sneak into other dimensions to explore, film tricks, go viral, and get away from the problems at home. It’s dangerous. It’s stupid. It’s got parent groups in a panic. And it’s the coolest thing ever.This is Slugblaster. A table-top rpg about teenagehood, giant bugs, circuit-bent rayguns, and trying to be cool.
+
+
+## Draw Steel {#draw-steel}
+
+<div link>
+
+<img src="/blog/images/draw-steel.jpg" alt="draw-steel.jpg" link="t" />
+Heroic, Cinematic, Tactical. High fantasy action with complex and interesting classes.
+
+</div>
+
+The most "gamey" of all the suggestions. Will require tracking numbers, working together, planning your combat actions carefully. Do you have enough squares to move close to the zombie hulk? Can someone else throw you?
+
+
+## Vaults of Vaarn {#vaults-of-vaarn}
+
+{{< figure src="/blog/images/vaarn.webp" link="t" >}}
+
+Explore a blue desert under the dying red sun. Lots of cool random tables and crazy exotica to find. Dungeon delving on arrakis.

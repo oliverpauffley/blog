@@ -4,29 +4,21 @@
 #+startup: logdone
 #+macro: imgzoom #+attr_html: :link t
 
-* posts
+* Posts
 ** DONE Games I Want To Run :@rpg:
-CLOSED: [2025-01-28 Tue 17:10]
+Closed: [2025-01-28 Tue 17:10]
 :PROPERTIES:
 :EXPORT_FILE_NAME: games_to_run
 :END:
-Here's a few game that I want run together with a pitch and some links for further reading.
 #+TOC: headlines 1
-*** [[https://www.chaosium.com/cthulhu-by-gaslight-investigators-guide-hardcover/][Call Of Cthulhu - Gaslight]]
-{{{imgzoom}}}
-[[file:/blog/images/coc_gaslight.webp]]
-
-Victorian era London. Class divides are strong and discrimination is everywhere. Chuck in the horrors of Cthulhu to break down the hierarchy and everyones sanity.
-
-Very simple to play but with lots of depth to dive into as well. You aren't meant to defeat everything you see because sometimes it's a god of unknownable horrors.
-
-Related Media:
-- Dracula
-- Frankenstein
-- Crimson Peak
 *** [[https://shop.arcdream.com/products/delta-green-the-role-playing-game-hardback-slipcase-set?ref=delta-green.com][Delta Green]]
 {{{imgzoom}}}
 [[/blog/images/delta_green.png]]
+
+#+begin_quote
+As you wind down the dark roads from the log cabin you take stock of your team. Agent Reynolds is bleeding from a deep gash across his stomach that smells worse than could be good but you think he will make it.
+Reinhardt is in the back muttering "She was dead, she was dead, she was dead" over and over and over. Rogers somehow seems to be doing the best despite the thick blood caked across his face. You check in with your FBI handler and let them know it was a false alarm, nothing to see here.
+#+end_quote
 
 The world is ending and right before calamity the good guys sweep in and save the day. You are those good guys but what does it cost your sanity to see the things you have seen.
 
@@ -40,6 +32,10 @@ Related Media:
 {{{imgzoom}}}
 [[/blog/images/mothership.jpg]]
 
+#+begin_quote
+The airlock door opens with a faint hiss and a worrying clunk, if you make it back alive and in one piece you should probably get that looked at. You round the corner and the lights flicker on and off in quick rapid bursts. The screams let you know what to expect as the limbs and torsos of what once the rest of your crew round the corner in front of you. 
+#+end_quote
+
 A crew tries (and often fails) to survive the vast expansive of space and all of the human and inhuman horrors it contains.
 
 Simple system with very little to learn to pickup and play. But your character is very unlikely to change much and will almost certainly be dead.
@@ -48,30 +44,23 @@ Related Media:
 - Alien franchise
 - Underwater
 - Event Horizon
-*** [[https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition][Worlds Without Number]]
-{{{imgzoom}}}
-[[/blog/images/worlds_without_number.png]]
-
-Old school fantasy swords and sorcery. Delve into dungeons, stab things and collect loot.
-
-Sometimes called Old School Renaissance (OSR), it's tactical and often brutal so you have to think before you do things! Often battles can be over quickly with a decisive plan.
-
-Related Media:
-- Dungeons and Dragons
-- Conan
-- Lord of the Rings
 *** [[https://www.thearcanelibrary.com/pages/shadowdark][Shadowdark]]
 {{{imgzoom}}}
 [[/blog/images/shadowdark.avif]]
 
+#+begin_quote
+The torch light in front of you barely illuminates a set of glowing runes on the floor on the chamber. Your fingers trace the grooves as your try and recall your days in the academy. It dawns on you that these are necromancy just as your final torch begins to sputter in your hands.  
+#+end_quote
+
 A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark.
 
 Related Media:
-- Same as Worlds Without Number
+- Lord of the Rings
+- Conan
+- The 13th Warrior
 *** [[https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd][Mythic Bastionland]]
 {{{imgzoom}}}
 [[/blog/images/mythic_bastionland.jpg]]
-
 Rules light roleplaying in a dreamlike world of knights and myths. Crawl hexes, rule a domain, and remember your oath.
 
 Very Arthurian Knights roaming a kingdom, completing quests and meeting weird seers.
@@ -83,7 +72,17 @@ Related Media:
 [[file:/blog/images/slugblaster.webp][file:/blog/images/slugblaster.webp]]
 
 In the small town of Hillview, teenage hoverboarders sneak into other dimensions to explore, film tricks, go viral, and get away from the problems at home. It’s dangerous. It’s stupid. It’s got parent groups in a panic. And it’s the coolest thing ever.This is Slugblaster. A table-top rpg about teenagehood, giant bugs, circuit-bent rayguns, and trying to be cool.
+*** Draw Steel
+{{{imgzoom}}}
+file:/blog/images/draw-steel.jpg
+Heroic, Cinematic, Tactical. High fantasy action with complex and interesting classes. 
 
+The most "gamey" of all the suggestions. Will require tracking numbers, working together, planning your combat actions carefully. Do you have enough squares to move close to the zombie hulk? Can someone else throw you?  
+*** Vaults of Vaarn
+{{{imgzoom}}}
+file:/blog/images/vaarn.webp
+
+Explore a blue desert under the dying red sun. Lots of cool random tables and crazy exotica to find. Dungeon delving on arrakis.
 ** DONE On Gradient Descent :@rpg:@mothership:
 CLOSED: [2025-02-04 Tue 22:12]
 :PROPERTIES:
@@ -239,139 +238,3 @@ convertBin op = do
 Note that we need to keep track of the registers in the stack which is what the line =push (InputR register)= is doing.
 
 I still have lots of do on this compiler and I learnt so much during the course that I would really like to just start again with the knowledge that I have now. Overall I highly recommend taking one of David's courses.
-** DONE Nix for Reproducible Developer Environments
-CLOSED: [2025-10-23 Thu 14:37]
-:PROPERTIES:
-:BEAMER_env: quotation
-:EXPORT_FILE_NAME: nix_for_reproducible_environments
-:END:
-#+LaTeX_HEADER: \usemintedstyle{tango} \setminted{fontfamily="Mononoki Nerd Font", breaklines=true, breakanywhere=true, fontsize=\large}
-#+LaTeX_CLASS_OPTIONS: [smaller,aspectratio=169]
-#+BEAMER_COLOR_THEME: wolverine
-#+BEAMER_HEADER: \beamerdefaultoverlayspecification{<+->}
-#+options: toc:nil
-*** Protobuf
-#+attr_latex: :width 250px
-[[./what_are_protos.png]]
-*** Version Number Wars
-**** Col left
-:PROPERTIES:
-   :BEAMER_col: 0.45
-   :BEAMER_opt: [t]
-   :END:
-Everyone loves a PR with 2000+ changes.
-[[./pr_size.png]]
-**** Col right
-:PROPERTIES:
-   :BEAMER_col: 0.45
-   :BEAMER_opt: [t]
-   :END:
-
-But drilling down.
-[[./why_big.png]]
-*** The Problem
-Every developer has a different version of the tools used to generate the protos!
-*** Make - Install everything on my machine
-Lets just include instructions on how to install things
-#+begin_src makefile
-PROTOC_VERSION := 3.14.0
-.PHONY: install-protoc
-install-protoc:
-	curl -OL https://github.com/protocolbuffers/protobuf/releases/download/v$(PROTOC_VERSION)/$(PROTOC_FILE)
-	sudo unzip -o $(PROTOC_FILE) -d /usr/local bin/protoc
-	sudo unzip -o $(PROTOC_FILE) -d /usr/local 'include/*'
-	rm -f $(PROTOC_FILE)
-#+end_src
-# story -> technical -> lessons learnt
-# interweave the story with the tech an lessons
-*** Ahh?
-- Turns out this was already in the repo.
-- I don't really want to have curl installing things.
-- You can just ignore it.
-*** Install everything on someone else's machine
-- If only there was a way to build a little mini machine with the binaries I need already on it.
-- Distribute the machine.
-- Docker!
-# story -> technical -> lessons learnt
-*** Docker
-#+begin_src dockerfile
-FROM cimg/go:1.19-node as build-stage
-
-ENV PROTOC_VERSION=3.18.1
-
-# Install protoc
-RUN curl -LO https://github.com/protocolbuffers/protobuf/releases/download/v${PROTOC_VERSION}/protoc-${PROTOC_VERSION}-linux-x86_64.zip
-RUN unzip protoc-${PROTOC_VERSION}-linux-x86_64.zip -d $HOME/.local
-RUN rm protoc-${PROTOC_VERSION}-linux-x86_64.zip
-
-RUN mkdir -p /home/circleci/project/pkg/generated
-
-# Install go/js tooling
-ADD Makefile .
-ADD go.mod .
-ADD go.sum .
-ADD package.json .
-ADD yarn.lock .
-RUN make install
-
-ADD . .
-# Generate code from proto files.
-RUN make protos-generate
-
-FROM scratch as export-stage
-
-COPY --from=build-stage /home/circleci/project/pkg/generated /pkg/generated
-#+end_src
-*** Docker
-**** Col left
-:PROPERTIES:
-   :BEAMER_col: 0.45
-   :BEAMER_opt: [t]
-   :END:
-Pros:
-- We can distribute this file and get the same(ish) system for everyone
-- We can use it CI/CD
-**** Col right
-:PROPERTIES:
-   :BEAMER_col: 0.45
-   :BEAMER_opt: [t]
-   :END:
-
-Cons:
-- We have actually only lifted the problem into docker
-- =ADD package.json=
-- This is only as deterministic as the package management we are using within docker.
-- Very slow
-- Doesn't connect well with local tooling for devs
-*** Nix - Install everything on my machine the same as everyone else's
-# story -> technical -> lessons learnt
-*** Demo
-*** Is Nix for You?
-**** Col left
-:PROPERTIES:
-   :BEAMER_col: 0.45
-   :END:
-Almost definitely no...
-- It's a little complicated to learn (But really not a big barrier to entry).
-- The payoff is complicated to explain.
-- Error messages are difficult to understand.
-But
-- It's probably the future?
-- When it's working and setup it's incredibly powerful.
-- You are probably rebuilding it's features yourself.
-**** Col right
-:PROPERTIES:
-   :BEAMER_col: 0.45
-   :END:
-#+begin_quote
-I’ve been a happy Nix user for about 18 months now, and– well, not happy happy, but satisfied… no… not really satisfied either; perhaps it’s more of a resigned disgruntlement; a feeling that despite its many flaws, it’s still better than anything else out there, and I’ve invested so much time into it already that it would be a shame to give up now, so… am I describing Stockholm syndrome?
---- Ian Henry
-#+end_quote
-*** How to install Nix
-https://nixos.org/download/
-
-- Works on linux, mac and windows (through wsl)
-- You can use it as well as your other package managers
-*** Haskell Book Club
-I also run a monthly haskell book club. Meeting on the last Sunday of the month
-*** Questions?
