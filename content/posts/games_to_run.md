@@ -26,7 +26,7 @@ weight = 2001
 
 {{< figure src="/blog/images/delta_green.png" link="t" >}}
 
-> As you wind down the dark roads from the log cabin you take stock of your team. Agent Reynolds is bleeding from a deep gash across his stomach that smells worse than could be good but you think he will make it.
+> As you wind down the dark roads from the log cabin you take stock of your team. Agent Reynolds is bleeding from a deep gash across his stomach that smells worse than could be good but, you think he will make it.
 > Reinhardt is in the back muttering "She was dead, she was dead, she was dead" over and over and over. Rogers somehow seems to be doing the best despite the thick blood caked across his face. You check in with your FBI handler and let them know it was a false alarm, nothing to see here.
 
 The world is ending and right before calamity the good guys sweep in and save the day. You are those good guys but what does it cost your sanity to see the things you have seen.
