@@ -84,7 +84,7 @@ Related Media:
 - Tony Hawk Pro Skater.
 *** Draw Steel
 {{{imgzoom}}}
-file:/blog/images/draw-steel.jpg
+file:/blog/images/draw-steel.png
 Heroic, Cinematic, Tactical. High fantasy action with complex and interesting classes. 
 
 The most "gamey" of all the suggestions. Will require tracking numbers, working together, planning your combat actions carefully. Do you have enough squares to move close to the zombie hulk? Can someone else throw you?  
