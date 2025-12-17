@@ -59,8 +59,8 @@ Related Media:
 - Conan
 - The 13th Warrior
 *** [[https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd][Mythic Bastionland]]
-{{{imgzoom}}}
 
+{{{imgzoom}}}
 [[/blog/images/mythic_bastionland.jpg]]
 
 #+begin_quote

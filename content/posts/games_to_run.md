@@ -74,12 +74,11 @@ Related Media:
 
 ## [Mythic Bastionland](https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd) {#mythic-bastionland}
 
-<div link>
+{{< figure src="/blog/images/mythic_bastionland.jpg" link="t" >}}
 
-<img src="/blog/images/mythic_bastionland.jpg" alt="mythic_bastionland.jpg" link="t" />
+> The seer gave your brief glimpses of the path you should follow but their riddles were hard to unravel. What was clear was the first sign, a one eye raven sitting on the way stone ahead. Riding hard up the path beyond you saw the knight clad in black. As the knight crested the hill you lowered your lance to meet them.
+
 Rules light roleplaying in a dreamlike world of knights and myths. Crawl hexes, rule a domain, and remember your oath.
-
-</div>
 
 Very Arthurian Knights roaming a kingdom, completing quests and meeting weird seers.
 
@@ -92,14 +91,19 @@ Related Media:
 
 [{{< figure src="/blog/images/slugblaster.webp" link="t" >}}](/blog/images/slugblaster.webp)
 
-In the small town of Hillview, teenage hoverboarders sneak into other dimensions to explore, film tricks, go viral, and get away from the problems at home. It’s dangerous. It’s stupid. It’s got parent groups in a panic. And it’s the coolest thing ever.This is Slugblaster. A table-top rpg about teenagehood, giant bugs, circuit-bent rayguns, and trying to be cool.
+In the small town of Hillview, teenage hoverboarders sneak into other dimensions to explore, film tricks, go viral, and get away from the problems at home. It’s dangerous. It’s stupid. It’s got parent groups in a panic. And it’s the coolest thing ever. This is Slugblaster. A table-top rpg about teenagehood, giant bugs, circuit-bent rayguns, and trying to be cool.
+
+Related Media:
+
+-   Any coming of age film.
+-   Tony Hawk Pro Skater.
 
 
 ## Draw Steel {#draw-steel}
 
 <div link>
 
-<img src="/blog/images/draw-steel.jpg" alt="draw-steel.jpg" link="t" />
+<img src="/blog/images/draw-steel.png" alt="draw-steel.png" link="t" />
 Heroic, Cinematic, Tactical. High fantasy action with complex and interesting classes.
 
 </div>
@@ -109,6 +113,8 @@ The most "gamey" of all the suggestions. Will require tracking numbers, working 
 
 ## Vaults of Vaarn {#vaults-of-vaarn}
 
-{{< figure src="/blog/images/vaarn.webp" link="t" >}}
+{{< figure src="/blog/images/vaarn.webp" >}}
+
+> As you slide down the dark sand into the shadow of the ruined building you hear the sound of the ornithopter overhead. As the hegemony forces start to land you look again at the vial of green liquid in the metal container. Will it kill you? Make you super strong? Flip your organs to the outside of your body? There is one way to find out!
 
 Explore a blue desert under the dying red sun. Lots of cool random tables and crazy exotica to find. Dungeon delving on arrakis.
