@@ -75,14 +75,14 @@ Related Media:
 - The Green Knight
 *** Blades In The Dark
 {{{imgzoom}}}
-[[file:~/blog/images/bitd.png][blades in the dark]]
+[[file:/blog/images/bitd.png][blades in the dark]]
 
 A game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases, occult mysteries, dangerous bargains, bloody skirmishes, and, above all, riches to be had — if you’re bold enough to seize them.
 
 You and your fledgling crew must thrive amidst the threats of rival gangs, powerful noble families, vengeful ghosts, the Bluecoats of the city watch, and the siren song of your scoundrel’s own vices. Will you rise to power in the criminal underworld? What are you willing to do to get to the top?
 *** His Majesty The Worm
 {{{imgzoom}}}
-[[file:~/blog/images/hmtw.jpg][his majesty the worm]]
+[[file:/blog/images/hmtw.jpg][his majesty the worm]]
 
 Dungeon delving is the heart of this game with cool systems for exploring dungeons and growing close to your party members. Combat is run with a fun mini game using tarot cards.
 *** [[https://www.myth.works/en-gb/pages/slugblaster][Slugblaster]] :noexport:

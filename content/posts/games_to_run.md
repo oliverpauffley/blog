@@ -55,7 +55,7 @@ Related Media:
 
 <div link>
 
-[blades in the dark](~/blog/images/bitd.png)
+[blades in the dark](/blog/images/bitd.png)
 
 </div>
 
@@ -68,7 +68,7 @@ You and your fledgling crew must thrive amidst the threats of rival gangs, power
 
 <div link>
 
-[his majesty the worm](~/blog/images/hmtw.jpg)
+[his majesty the worm](/blog/images/hmtw.jpg)
 
 </div>
 
