@@ -53,11 +53,7 @@ Related Media:
 
 ## Blades In The Dark {#blades-in-the-dark}
 
-<div link>
-
-[blades in the dark](/blog/images/bitd.png)
-
-</div>
+{{< figure src="/blog/images/bitd.png" link="t" >}}
 
 A game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases, occult mysteries, dangerous bargains, bloody skirmishes, and, above all, riches to be had — if you’re bold enough to seize them.
 
@@ -66,10 +62,6 @@ You and your fledgling crew must thrive amidst the threats of rival gangs, power
 
 ## His Majesty The Worm {#his-majesty-the-worm}
 
-<div link>
-
-[his majesty the worm](/blog/images/hmtw.jpg)
-
-</div>
+{{< figure src="/blog/images/hmtw.jpg" link="t" >}}
 
 Dungeon delving is the heart of this game with cool systems for exploring dungeons and growing close to your party members. Combat is run with a fun mini game using tarot cards.
