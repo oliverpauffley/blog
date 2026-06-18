@@ -11,7 +11,7 @@ Closed: [2025-01-28 Tue 17:10]
 :EXPORT_FILE_NAME: games_to_run
 :END:
 #+TOC: headlines 1
-*** [[https://shop.arcdream.com/products/delta-green-the-role-playing-game-hardback-slipcase-set?ref=delta-green.com][Delta Green]]
+*** [[https://shop.arcdream.com/products/delta-green-the-role-playing-game-hardback-slipcase-set?ref=delta-green.com][Delta Green]] :noexport:
 {{{imgzoom}}}
 [[/blog/images/delta_green.png]]
 
@@ -44,7 +44,7 @@ Related Media:
 - Alien franchise
 - Underwater
 - Event Horizon
-*** [[https://www.thearcanelibrary.com/pages/shadowdark][Shadowdark]]
+*** [[https://www.thearcanelibrary.com/pages/shadowdark][Shadowdark]] :noexport:
 {{{imgzoom}}}
 [[/blog/images/shadowdark.avif]]
 
@@ -73,7 +73,19 @@ Very Arthurian Knights roaming a kingdom, completing quests and meeting weird se
 
 Related Media:
 - The Green Knight
-*** [[https://www.myth.works/en-gb/pages/slugblaster][Slugblaster]]
+*** Blades In The Dark
+{{{imgzoom}}}
+[[file:~/blog/images/bitd.png][blades in the dark]]
+
+A game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases, occult mysteries, dangerous bargains, bloody skirmishes, and, above all, riches to be had — if you’re bold enough to seize them.
+
+You and your fledgling crew must thrive amidst the threats of rival gangs, powerful noble families, vengeful ghosts, the Bluecoats of the city watch, and the siren song of your scoundrel’s own vices. Will you rise to power in the criminal underworld? What are you willing to do to get to the top?
+*** His Majesty The Worm
+{{{imgzoom}}}
+[[file:~/blog/images/hmtw.jpg][his majesty the worm]]
+
+Dungeon delving is the heart of this game with cool systems for exploring dungeons and growing close to your party members. Combat is run with a fun mini game using tarot cards.
+*** [[https://www.myth.works/en-gb/pages/slugblaster][Slugblaster]] :noexport:
 {{{imgzoom}}}
 [[file:/blog/images/slugblaster.webp][file:/blog/images/slugblaster.webp]]
 
@@ -82,13 +94,13 @@ In the small town of Hillview, teenage hoverboarders sneak into other dimensions
 Related Media:
 - Any coming of age film.
 - Tony Hawk Pro Skater.
-*** Draw Steel
+*** Draw Steel :noexport:
 {{{imgzoom}}}
 file:/blog/images/draw-steel.png
 Heroic, Cinematic, Tactical. High fantasy action with complex and interesting classes. 
 
 The most "gamey" of all the suggestions. Will require tracking numbers, working together, planning your combat actions carefully. Do you have enough squares to move close to the zombie hulk? Can someone else throw you?  
-*** Vaults of Vaarn
+*** Vaults of Vaarn :noexport:
 {{{imgzoom}}}
 
 file:/blog/images/vaarn.webp

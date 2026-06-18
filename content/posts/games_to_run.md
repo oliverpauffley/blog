@@ -10,34 +10,13 @@ weight = 2001
 
 <div class="heading">Table of Contents</div>
 
-- [Delta Green](#delta-green)
 - [Mothership](#mothership)
-- [Shadowdark](#shadowdark)
 - [Mythic Bastionland](#mythic-bastionland)
-- [Slugblaster](#slugblaster)
-- [Draw Steel](#draw-steel)
-- [Vaults of Vaarn](#vaults-of-vaarn)
+- [Blades In The Dark](#blades-in-the-dark)
+- [His Majesty The Worm](#his-majesty-the-worm)
 
 </div>
 <!--endtoc-->
-
-
-## [Delta Green](https://shop.arcdream.com/products/delta-green-the-role-playing-game-hardback-slipcase-set?ref=delta-green.com) {#delta-green}
-
-{{< figure src="/blog/images/delta_green.png" link="t" >}}
-
-> As you wind down the dark roads from the log cabin you take stock of your team. Agent Reynolds is bleeding from a deep gash across his stomach that smells worse than could be good but, you think he will make it.
-> Reinhardt is in the back muttering "She was dead, she was dead, she was dead" over and over and over. Rogers somehow seems to be doing the best despite the thick blood caked across his face. You check in with your FBI handler and let them know it was a false alarm, nothing to see here.
-
-The world is ending and right before calamity the good guys sweep in and save the day. You are those good guys but what does it cost your sanity to see the things you have seen.
-
-Based on Call Of Cthulhu but modern era. Easy to play and lots of cool character building systems. You should hopefully save the world but maybe not make it out alive.
-
-Related Media:
-
--   X-Files
--   Stranger Things
--   True Detective
 
 
 ## [Mothership](https://www.tuesdayknightgames.com/pages/mothership-rpg) {#mothership}
@@ -57,21 +36,6 @@ Related Media:
 -   Event Horizon
 
 
-## [Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark) {#shadowdark}
-
-{{< figure src="/blog/images/shadowdark.avif" link="t" >}}
-
-> The torch light in front of you barely illuminates a set of glowing runes on the floor on the chamber. Your fingers trace the grooves as your try and recall your days in the academy. It dawns on you that these are necromancy just as your final torch begins to sputter in your hands.
-
-A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark.
-
-Related Media:
-
--   Lord of the Rings
--   Conan
--   The 13th Warrior
-
-
 ## [Mythic Bastionland](https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd) {#mythic-bastionland}
 
 {{< figure src="/blog/images/mythic_bastionland.jpg" link="t" >}}
@@ -87,34 +51,25 @@ Related Media:
 -   The Green Knight
 
 
-## [Slugblaster](https://www.myth.works/en-gb/pages/slugblaster) {#slugblaster}
-
-[{{< figure src="/blog/images/slugblaster.webp" link="t" >}}](/blog/images/slugblaster.webp)
-
-In the small town of Hillview, teenage hoverboarders sneak into other dimensions to explore, film tricks, go viral, and get away from the problems at home. It’s dangerous. It’s stupid. It’s got parent groups in a panic. And it’s the coolest thing ever. This is Slugblaster. A table-top rpg about teenagehood, giant bugs, circuit-bent rayguns, and trying to be cool.
-
-Related Media:
-
--   Any coming of age film.
--   Tony Hawk Pro Skater.
-
-
-## Draw Steel {#draw-steel}
+## Blades In The Dark {#blades-in-the-dark}
 
 <div link>
 
-<img src="/blog/images/draw-steel.png" alt="draw-steel.png" link="t" />
-Heroic, Cinematic, Tactical. High fantasy action with complex and interesting classes.
+[blades in the dark](~/blog/images/bitd.png)
 
 </div>
 
-The most "gamey" of all the suggestions. Will require tracking numbers, working together, planning your combat actions carefully. Do you have enough squares to move close to the zombie hulk? Can someone else throw you?
+A game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases, occult mysteries, dangerous bargains, bloody skirmishes, and, above all, riches to be had — if you’re bold enough to seize them.
+
+You and your fledgling crew must thrive amidst the threats of rival gangs, powerful noble families, vengeful ghosts, the Bluecoats of the city watch, and the siren song of your scoundrel’s own vices. Will you rise to power in the criminal underworld? What are you willing to do to get to the top?
 
 
-## Vaults of Vaarn {#vaults-of-vaarn}
+## His Majesty The Worm {#his-majesty-the-worm}
 
-{{< figure src="/blog/images/vaarn.webp" >}}
+<div link>
 
-> As you slide down the dark sand into the shadow of the ruined building you hear the sound of the ornithopter overhead. As the hegemony forces start to land you look again at the vial of green liquid in the metal container. Will it kill you? Make you super strong? Flip your organs to the outside of your body? There is one way to find out!
+[his majesty the worm](~/blog/images/hmtw.jpg)
 
-Explore a blue desert under the dying red sun. Lots of cool random tables and crazy exotica to find. Dungeon delving on arrakis.
+</div>
+
+Dungeon delving is the heart of this game with cool systems for exploring dungeons and growing close to your party members. Combat is run with a fun mini game using tarot cards.
