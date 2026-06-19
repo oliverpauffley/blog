@@ -11,13 +11,32 @@ weight = 2001
 
 <div class="heading">Table of Contents</div>
 
+- [Data Plot Example](#data-plot-example)
 - [Blades In The Dark](#blades-in-the-dark)
 - [His Majesty The Worm](#his-majesty-the-worm)
 - [Mothership](#mothership)
 - [Mythic Bastionland](#mythic-bastionland)
+- [Stars Without Number](#stars-without-number)
 
 </div>
 <!--endtoc-->
+
+
+## Data Plot Example {#data-plot-example}
+
+<a id="table--traffic-data"></a>
+
+| Day | Views | Visitors |
+|-----|-------|----------|
+| Mon | 10    | 5        |
+| Tue | 15    | 8        |
+| Wed | 25    | 12       |
+| Thu | 20    | 10       |
+| Fri | 35    | 20       |
+
+Here is the graph of the data above:
+
+{{< figure src="/images/blog-traffic.png" >}}
 
 
 ## [Blades In The Dark](https://bladesinthedark.com/greetings-scoundrel) {#blades-in-the-dark}
@@ -62,7 +81,7 @@ Related Media:
 
 {{< figure src="/blog/images/mythic_bastionland.jpg" link="t" >}}
 
-> The seer gave your brief glimpses of the path you should follow but their riddles were hard to unravel. What was clear was the first sign, a one eye raven sitting on the way stone ahead. Riding hard up the path beyond you saw the knight clad in black. As the knight crested the hill you lowered your lance to meet them.
+> The seer gave your brief glimpses of the path you should follow but their riddles were hard to unravel. What was clear was the first sign, a one eye raven sitting on the way stone ahead. Riding hard up the path beyond you saw the knight clad in black. As the knight crested the hill you lower your lance to meet them.
 
 Rules light roleplaying in a dreamlike world of knights and myths. Crawl hexes, rule a domain, and remember your oath.
 
@@ -71,3 +90,14 @@ Very Arthurian Knights roaming a kingdom, completing quests and meeting weird se
 Related Media:
 
 -   The Green Knight
+
+
+## [Stars Without Number](https://sine-nomine-publishing.myshopify.com/collections/stars-without-number/products/stars-without-number-revised) {#stars-without-number}
+
+The year is 3200 and mankind's empire lies in ashes.
+
+The Jump Gates fell six hundred years ago, severing the links between the myriad worlds of the human diaspora.
+
+Now, the long isolation of the Silence falls away as men and women return to the skies above their scattered worlds.
+
+Will you be among them once more?

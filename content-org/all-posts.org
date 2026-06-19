@@ -12,6 +12,32 @@ Closed: [2025-01-28 Tue 17:10]
 :EXPORT_FILE_NAME: games_to_run
 :END:
 #+TOC: headlines 1
+
+*** Data Plot Example
+
+#+name: traffic-data
+| Day | Views | Visitors |
+|-----+-------+----------|
+| Mon |    10 |        5 |
+| Tue |    15 |        8 |
+| Wed |    25 |       12 |
+| Thu |    20 |       10 |
+| Fri |    35 |       20 |
+
+Here is the graph of the data above:
+
+#+begin_src gnuplot :var data=traffic-data :file ~/blog/static/images/blog-traffic.png :exports results
+set title "Blog Traffic"
+set xlabel "Day of Week"
+set ylabel "Count"
+set style data linespoints
+plot data using 2:xtic(1) title "Views" linewidth 2, \
+     data using 3:xtic(1) title "Visitors" linewidth 2
+#+end_src
+
+#+RESULTS:
+[[/blog/images/blog-traffic.png]]
+
 *** [[https://bladesinthedark.com/greetings-scoundrel][Blades In The Dark]]
 
 {{{imgzoom}}}
@@ -77,7 +103,7 @@ Related Media:
 [[/blog/images/mythic_bastionland.jpg]]
 
 #+begin_quote
-The seer gave your brief glimpses of the path you should follow but their riddles were hard to unravel. What was clear was the first sign, a one eye raven sitting on the way stone ahead. Riding hard up the path beyond you saw the knight clad in black. As the knight crested the hill you lowered your lance to meet them.
+The seer gave your brief glimpses of the path you should follow but their riddles were hard to unravel. What was clear was the first sign, a one eye raven sitting on the way stone ahead. Riding hard up the path beyond you saw the knight clad in black. As the knight crested the hill you lower your lance to meet them.
 #+end_quote
 
 Rules light roleplaying in a dreamlike world of knights and myths. Crawl hexes, rule a domain, and remember your oath.
@@ -109,6 +135,15 @@ In the small town of Hillview, teenage hoverboarders sneak into other dimensions
 Related Media:
 - Any coming of age film.
 - Tony Hawk Pro Skater.
+*** [[https://sine-nomine-publishing.myshopify.com/collections/stars-without-number/products/stars-without-number-revised][Stars Without Number]]
+
+The year is 3200 and mankind's empire lies in ashes.
+
+The Jump Gates fell six hundred years ago, severing the links between the myriad worlds of the human diaspora.
+
+Now, the long isolation of the Silence falls away as men and women return to the skies above their scattered worlds.
+
+Will you be among them once more?
 *** Vaults of Vaarn :noexport:
 {{{imgzoom}}}
 
