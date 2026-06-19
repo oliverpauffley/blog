@@ -38,6 +38,8 @@ Here is the graph of the data above:
 
 {{< figure src="/images/blog-traffic.png" >}}
 
+[/blog/images/blog-traffic.png](/blog/images/blog-traffic.png)
+
 
 ## [Blades In The Dark](https://bladesinthedark.com/greetings-scoundrel) {#blades-in-the-dark}
 
