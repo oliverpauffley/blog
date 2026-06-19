@@ -12,6 +12,15 @@ Closed: [2025-01-28 Tue 17:10]
 :EXPORT_FILE_NAME: games_to_run
 :END:
 #+TOC: headlines 1
+*** [[https://bladesinthedark.com/greetings-scoundrel][Blades In The Dark]]
+
+{{{imgzoom}}}
+#+attr_html: :width 50% :height 50%
+[[/blog/images/bitd.png]]
+
+A game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases, occult mysteries, dangerous bargains, bloody skirmishes, and, above all, riches to be had — if you’re bold enough to seize them.
+
+You and your fledgling crew must thrive amidst the threats of rival gangs, powerful noble families, vengeful ghosts, the Bluecoats of the city watch, and the siren song of your scoundrel’s own vices. Will you rise to power in the criminal underworld? What are you willing to do to get to the top?
 *** [[https://shop.arcdream.com/products/delta-green-the-role-playing-game-hardback-slipcase-set?ref=delta-green.com][Delta Green]] :noexport:
 {{{imgzoom}}}
 [[/blog/images/delta_green.png]]
@@ -29,6 +38,18 @@ Related Media:
 - X-Files
 - Stranger Things
 - True Detective
+*** Draw Steel :noexport:
+{{{imgzoom}}}
+file:/blog/images/draw-steel.png
+Heroic, Cinematic, Tactical. High fantasy action with complex and interesting classes. 
+
+The most "gamey" of all the suggestions. Will require tracking numbers, working together, planning your combat actions carefully. Do you have enough squares to move close to the zombie hulk? Can someone else throw you?  
+*** His Majesty The Worm
+{{{imgzoom}}}
+#+attr_html: :width 50% :height 50%
+[[/blog/images/hmtw.jpg]]
+
+Dungeon delving is the heart of this game with cool systems for exploring dungeons and growing close to your party members. Combat is run with a fun mini game using tarot cards.
 *** [[https://www.tuesdayknightgames.com/pages/mothership-rpg][Mothership]]
 {{{imgzoom}}}
 [[/blog/images/mothership.jpg]]
@@ -45,20 +66,6 @@ Related Media:
 - Alien franchise
 - Underwater
 - Event Horizon
-*** [[https://www.thearcanelibrary.com/pages/shadowdark][Shadowdark]] :noexport:
-{{{imgzoom}}}
-[[/blog/images/shadowdark.avif]]
-
-#+begin_quote
-The torch light in front of you barely illuminates a set of glowing runes on the floor on the chamber. Your fingers trace the grooves as your try and recall your days in the academy. It dawns on you that these are necromancy just as your final torch begins to sputter in your hands.  
-#+end_quote
-
-A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark.
-
-Related Media:
-- Lord of the Rings
-- Conan
-- The 13th Warrior
 *** [[https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd][Mythic Bastionland]]
 
 {{{imgzoom}}}
@@ -74,21 +81,20 @@ Very Arthurian Knights roaming a kingdom, completing quests and meeting weird se
 
 Related Media:
 - The Green Knight
-*** [[https://bladesinthedark.com/greetings-scoundrel][Blades In The Dark]]
-
+*** [[https://www.thearcanelibrary.com/pages/shadowdark][Shadowdark]] :noexport:
 {{{imgzoom}}}
-#+attr_html: :width 50% :height 50%
-[[/blog/images/bitd.png]]
+[[/blog/images/shadowdark.avif]]
 
-A game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases, occult mysteries, dangerous bargains, bloody skirmishes, and, above all, riches to be had — if you’re bold enough to seize them.
+#+begin_quote
+The torch light in front of you barely illuminates a set of glowing runes on the floor on the chamber. Your fingers trace the grooves as your try and recall your days in the academy. It dawns on you that these are necromancy just as your final torch begins to sputter in your hands.  
+#+end_quote
 
-You and your fledgling crew must thrive amidst the threats of rival gangs, powerful noble families, vengeful ghosts, the Bluecoats of the city watch, and the siren song of your scoundrel’s own vices. Will you rise to power in the criminal underworld? What are you willing to do to get to the top?
-*** His Majesty The Worm
-{{{imgzoom}}}
-#+attr_html: :width 50% :height 50%
-[[/blog/images/hmtw.jpg]]
+A much more streamlined dungeon crawling adventure. Use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths. Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark.
 
-Dungeon delving is the heart of this game with cool systems for exploring dungeons and growing close to your party members. Combat is run with a fun mini game using tarot cards.
+Related Media:
+- Lord of the Rings
+- Conan
+- The 13th Warrior
 *** [[https://www.myth.works/en-gb/pages/slugblaster][Slugblaster]] :noexport:
 {{{imgzoom}}}
 [[file:/blog/images/slugblaster.webp][file:/blog/images/slugblaster.webp]]
@@ -98,12 +104,6 @@ In the small town of Hillview, teenage hoverboarders sneak into other dimensions
 Related Media:
 - Any coming of age film.
 - Tony Hawk Pro Skater.
-*** Draw Steel :noexport:
-{{{imgzoom}}}
-file:/blog/images/draw-steel.png
-Heroic, Cinematic, Tactical. High fantasy action with complex and interesting classes. 
-
-The most "gamey" of all the suggestions. Will require tracking numbers, working together, planning your combat actions carefully. Do you have enough squares to move close to the zombie hulk? Can someone else throw you?  
 *** Vaults of Vaarn :noexport:
 {{{imgzoom}}}
 
