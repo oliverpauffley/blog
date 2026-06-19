@@ -77,6 +77,7 @@ Related Media:
 *** [[https://bladesinthedark.com/greetings-scoundrel][Blades In The Dark]]
 
 {{{imgzoom}}}
+#+attr_html: :width 50% :height 50%
 [[/blog/images/bitd.png]]
 
 A game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city. There are heists, chases, occult mysteries, dangerous bargains, bloody skirmishes, and, above all, riches to be had — if you’re bold enough to seize them.
@@ -84,6 +85,7 @@ A game about a crew of daring scoundrels seeking their fortunes on the haunted s
 You and your fledgling crew must thrive amidst the threats of rival gangs, powerful noble families, vengeful ghosts, the Bluecoats of the city watch, and the siren song of your scoundrel’s own vices. Will you rise to power in the criminal underworld? What are you willing to do to get to the top?
 *** His Majesty The Worm
 {{{imgzoom}}}
+#+attr_html: :width 50% :height 50%
 [[/blog/images/hmtw.jpg]]
 
 Dungeon delving is the heart of this game with cool systems for exploring dungeons and growing close to your party members. Combat is run with a fun mini game using tarot cards.
