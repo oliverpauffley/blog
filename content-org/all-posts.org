@@ -35,7 +35,7 @@ plot data using 2:xtic(1) title "Views" linewidth 2, \
      data using 3:xtic(1) title "Visitors" linewidth 2
 #+end_src
 
-
+{{{imgzoom}}}
 [[/blog/images/blog-traffic.png][/blog/images/blog-traffic.png]]
 
 *** [[https://bladesinthedark.com/greetings-scoundrel][Blades In The Dark]]
