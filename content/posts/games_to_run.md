@@ -29,7 +29,7 @@ A game about a crew of daring scoundrels seeking their fortunes on the haunted s
 You and your fledgling crew must thrive amidst the threats of rival gangs, powerful noble families, vengeful ghosts, the Bluecoats of the city watch, and the siren song of your scoundrel’s own vices. Will you rise to power in the criminal underworld? What are you willing to do to get to the top?
 
 
-## His Majesty The Worm {#his-majesty-the-worm}
+## [His Majesty The Worm](https://www.hismajestytheworm.games/) {#his-majesty-the-worm}
 
 {{< figure src="/blog/images/hmtw.jpg" link="t" width="50%" height="50%" >}}
 
