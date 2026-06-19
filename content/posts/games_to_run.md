@@ -33,7 +33,12 @@ You and your fledgling crew must thrive amidst the threats of rival gangs, power
 
 {{< figure src="/blog/images/hmtw.jpg" link="t" width="50%" height="50%" >}}
 
-Dungeon delving is the heart of this game with cool systems for exploring dungeons and growing close to your party members. Combat is run with a fun mini game using tarot cards.
+His Majesty the Worm is a new-school game with old-school sensibilities: a classic megadungeon experience given fresh life through a focus on the mundanities and small moments of daily life inside the dungeon. The Game Master is given tools to create a megadungeon called the Underworld. The players create adventurers to explore the Underworld in pursuit of their personal quests. Tarot cards are used as a randomizing element.
+
+Food, hunger, light, and inventory management are central to play and actually fun.
+Tarot cards are used to create an action-packed combat system that ensures that all players have interesting choices every minute of combat: no downtime!
+The game has robust procedures. Characters adventure in the Underworld, rest in roleplaying-driven camping scenes, and plot long-term schemes in the City at the center of the Wide World.
+The relationships between companions, called Bonds, powers the rest and recovery mechanic of the game. Roleplaying drives the game forward.
 
 
 ## [Mothership](https://www.tuesdayknightgames.com/pages/mothership-rpg) {#mothership}
