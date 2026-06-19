@@ -8,6 +8,7 @@
 ** DONE Games I Want To Run :@rpg:
 Closed: [2025-01-28 Tue 17:10]
 :PROPERTIES:
+:EXPORT_DATE: [2026-06-15 Tue 22:12]
 :EXPORT_FILE_NAME: games_to_run
 :END:
 #+TOC: headlines 1
@@ -73,7 +74,7 @@ Very Arthurian Knights roaming a kingdom, completing quests and meeting weird se
 
 Related Media:
 - The Green Knight
-*** Blades In The Dark
+*** [[https://bladesinthedark.com/greetings-scoundrel][Blades In The Dark]]
 
 {{{imgzoom}}}
 [[/blog/images/bitd.png]]

@@ -1,6 +1,7 @@
 +++
 title = "Games I Want To Run"
 author = ["Oliver Pauffley"]
+date = 2026-06-15T22:12:00+01:00
 categories = ["rpg"]
 draft = false
 weight = 2001
@@ -51,7 +52,7 @@ Related Media:
 -   The Green Knight
 
 
-## Blades In The Dark {#blades-in-the-dark}
+## [Blades In The Dark](https://bladesinthedark.com/greetings-scoundrel) {#blades-in-the-dark}
 
 {{< figure src="/blog/images/bitd.png" link="t" >}}
 
